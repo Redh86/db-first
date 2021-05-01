@@ -1,0 +1,10 @@
+Concessionaria
+
+id			numero		AUTO_INC		NOT NULL
+marca		stringa		varchar (20)	NOT NULL
+modello		stringa		varchar (50)	NOT NULL
+anno		data		YEAR			NOT NULL
+carburante	stringa		varchar (20)	NOT NULL
+porte		numero						NOT NULL
+velocità	numero						NULL
+colore		stringa		varchar (10)	NULL
